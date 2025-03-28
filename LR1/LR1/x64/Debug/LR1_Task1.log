@@ -1,0 +1,63 @@
+﻿  LR_1Task1.cpp
+  LR_1Task2.cpp
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(18,5): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(18,5): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(18,5): warning C4311: приведение типов: усечение указателя из "int **" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(18,5): warning C4302: приведение типов: усечение из "int **" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(20,5): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(20,5): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(20,5): warning C4311: приведение типов: усечение указателя из "int **" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(20,5): warning C4302: приведение типов: усечение из "int **" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(21,5): warning C4311: приведение типов: усечение указателя из "int *" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(21,5): warning C4302: приведение типов: усечение из "int *" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(21,5): warning C4311: приведение типов: усечение указателя из "int **" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(21,5): warning C4302: приведение типов: усечение из "int **" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(23,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(23,12):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(23,12):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(23,12):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(30,5): warning C4311: приведение типов: усечение указателя из "char *" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(30,5): warning C4302: приведение типов: усечение из "char *" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(30,5): warning C4311: приведение типов: усечение указателя из "char **" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(30,5): warning C4302: приведение типов: усечение из "char **" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(32,5): warning C4311: приведение типов: усечение указателя из "char *" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(32,5): warning C4302: приведение типов: усечение из "char *" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(32,5): warning C4311: приведение типов: усечение указателя из "char **" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(32,5): warning C4302: приведение типов: усечение из "char **" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(33,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(33,12):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(33,12):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(33,12):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(40,5): warning C4311: приведение типов: усечение указателя из "double *" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(40,5): warning C4302: приведение типов: усечение из "double *" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(40,5): warning C4311: приведение типов: усечение указателя из "double **" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(40,5): warning C4302: приведение типов: усечение из "double **" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(40,5): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(42,5): warning C4311: приведение типов: усечение указателя из "double *" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(42,5): warning C4302: приведение типов: усечение из "double *" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(42,5): warning C4311: приведение типов: усечение указателя из "double **" в "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(42,5): warning C4302: приведение типов: усечение из "double **" к "unsigned int"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(42,5): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(43,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(43,12):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(43,12):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\LR_1Task2.cpp(43,12):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+  Создание кода...
+LR_1Task2.obj : error LNK2005: main уже определен в LR_1Task1.obj
+LR_1Task3.obj : error LNK2005: "void __cdecl obmen2(int *,int *)" (?obmen2@@YAXPEAH0@Z) уже определен в LR_1Task1.obj
+LR_1Task3.obj : error LNK2005: "void __cdecl obmen3(int &,int &)" (?obmen3@@YAXAEAH0@Z) уже определен в LR_1Task1.obj
+LR_1Task3.obj : error LNK2005: "void __cdecl obmen(int,int)" (?obmen@@YAXHH@Z) уже определен в LR_1Task1.obj
+LR_1Task3.obj : error LNK2005: main уже определен в LR_1Task1.obj
+C:\Users\Ivan_911\OneDrive\Desktop\Учеба\С++\Лабораторные работы\LR1\LR1_Task1\x64\Debug\LR1_Task1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
