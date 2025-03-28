@@ -1,0 +1,12 @@
+﻿  Task9.cpp
+C:\Users\Ivan_911\Desktop\Учеба\С++\Лабораторные работы\LR1\LR9\Task9.cpp(90,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+      C:\Users\Ivan_911\Desktop\Учеба\С++\Лабораторные работы\LR1\LR9\Task9.cpp(90,20):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Ivan_911\Desktop\Учеба\С++\Лабораторные работы\LR1\LR9\Task9.cpp(140,21):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "TStack<RailCar>"
+          C:\Users\Ivan_911\Desktop\Учеба\С++\Лабораторные работы\LR1\LR9\Task9.cpp(89,10):
+          во время компиляции функции-члена класс шаблон "void TStack<RailCar>::print(void) const"
+              C:\Users\Ivan_911\Desktop\Учеба\С++\Лабораторные работы\LR1\LR9\Task9.cpp(149,17):
+              см. первую ссылку на TStack<RailCar>::print "main"
+  
+  LR9.vcxproj -> C:\Users\Ivan_911\Desktop\Учеба\С++\Лабораторные работы\LR1\LR9\x64\Debug\LR9.exe
